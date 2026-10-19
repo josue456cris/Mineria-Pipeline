@@ -101,29 +101,8 @@ mineria-ml-pipeline/
 ├── notebooks/
 │   ├── 01_busqueda_optimizacion.ipynb # Razonamiento y selección de frentes
 │   └── 02_regresion_prediccion.ipynb # Entrenamiento y evaluación de regresión
-├── src/                              # Espacio para funciones reutilizables
 └── images/                           # Espacio para gráficos exportados
 ```
-
-## Ejecución del proyecto
-
-### En Google Colab
-
-1. Publicar los archivos en un repositorio de GitHub, conservando la estructura mostrada.
-2. Abrir [Google Colab](https://colab.research.google.com/) y seleccionar **Archivo → Abrir cuaderno → GitHub**.
-3. Abrir `notebooks/01_busqueda_optimizacion.ipynb` y ejecutar todas sus celdas.
-4. Abrir `notebooks/02_regresion_prediccion.ipynb` y ejecutar todas sus celdas.
-5. Cuando corresponda, sustituir `USUARIO` en las rutas de GitHub de los notebooks por el usuario real del repositorio. Los notebooks incluyen una alternativa de datos de respaldo para facilitar la ejecución.
-
-### En un entorno local
-
-Instalar las dependencias con:
-
-```bash
-pip install -r requirements.txt
-```
-
-Después, abrir los archivos `.ipynb` con Jupyter Notebook, JupyterLab o Visual Studio Code y ejecutar sus celdas en orden.
 
 ## Alcances y limitaciones
 
