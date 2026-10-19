@@ -101,7 +101,7 @@ mineria-ml-pipeline/
 ├── notebooks/
 │   ├── 01_busqueda_optimizacion.ipynb # Razonamiento y selección de frentes
 │   └── 02_regresion_prediccion.ipynb # Entrenamiento y evaluación de regresión
-└── images/                           # Espacio para gráficos exportados
+└── images/                           # Espacio para gráficos exportados/presentaciones
 ```
 
 ## Alcances y limitaciones
